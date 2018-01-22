@@ -21,5 +21,6 @@ class TransacaoDao {
         Companion.transacoes[posicao] = transacao
     }
 
+    //comentario
 
 }
